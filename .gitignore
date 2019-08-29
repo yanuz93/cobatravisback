@@ -1,4 +1,6 @@
 htmlcov
 **/__pycache__
-.pytest_cache
-.coverage
+\.pytest_cache
+\.coverage
+deploy_rsa
+deploy_rsa.pub
